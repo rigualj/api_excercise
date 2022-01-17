@@ -26,5 +26,6 @@ Available actions:
 ## Example
 Execute a curl command as seen below:
 `curl -X POST http://localhost/manage_file -H 'Content-Type: application/json' -d '{"action": "download"}'`
+
 Note: Substitute the hostname, ip, or port to match your environment 
 
